@@ -1,4 +1,3 @@
-
 <!-- HERO BANNER -->
 <p align="center">
   <img src="./VeritasRiskEngine%202027.jpg" alt="Veritas Risk Engine" width="100%" style="border-radius: 10px;" />
@@ -17,9 +16,9 @@
 
 <!-- LIVE METRIC BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/VeritasRiskEngine?label=Followers&style=for-the-badge&color=d4af37&labelColor=050505" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/VeritasRiskEngine?label=Total%20Stars&style=for-the-badge&color=f4f4f5&labelColor=050505" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=VeritasRiskEngine&label=Profile%20Views&style=for-the-badge&color=aa771c&labelColor=050505" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/VeritasRiskEngine?label=Followers&style=for-the-badge&color=d4af37&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/VeritasRiskEngine?label=Total%20Stars&style=for-the-badge&color=f4f4f5&labelColor=000000" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=VeritasRiskEngine&label=Profile%20Views&style=for-the-badge&color=aa771c&labelColor=000000" alt="Profile Views" />
 </p>
 
 ---
