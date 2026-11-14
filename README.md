@@ -12,7 +12,7 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="./banner.png" alt="Veritas Risk Engine" width="100%" />
+  <img src="./VeritasRiskEngine%202027.jpg" alt="Veritas Risk Engine" width="100%" />
 </p>
 
 <!-- ANIMATED TYPING SUBTITLE -->
