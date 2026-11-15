@@ -4,6 +4,13 @@
 </p>
 
 <br>
+<!-- MUSIC SOUNDTRACK LINK -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=UCoCYhzJJ2Y&list=RDUCoCYhzJJ2Y&index=1" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_LISTEN_TO_SOUNDTRACK-PLAY_YOUTUBE_PLAYLIST-000000?style=for-the-badge&logo=youtube&logoColor=d4af37&color=000000&labelColor=000000" alt="Play Soundtrack" style="border: 1px solid #d4af37; border-radius: 8px;" />
+  </a>
+</p>
+
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <p align="center">
