@@ -32,19 +32,39 @@
 
 ---
 
-<!-- ESPRESSO/BLACK SHINY BACKGROUND CONTAINER TABLE -->
-<table>
-<tr><td bgcolor="#050505">
-
 <h3 align="center" style="color: #d4af37; letter-spacing: 2px;">🏛️ EXECUTIVE CORE ARCHITECTURE</h3>
 
-```python
-class VeritasRiskEngine:
-    def __init__(self):
-        self.mandate = "Elite GRC & Autonomous AI Control Planes"
-        self.standards = ["NIST AI RMF", "ISO/IEC 42001", "SOC 2", "Zero-Trust Architecture"]
-        self.execution = [
-            "Precision Risk Intelligence & Threat Modeling",
-            "Exception-Only Human-in-the-Loop (HITL) Validation Gates",
-            "Immutable Cryptographic Audit Ledgers"
-        ]
+<p align="center" style="color: #f4f4f5; font-family: monospace;">
+<b>Mandate:</b> Elite GRC & Autonomous AI Control Planes<br>
+<b>Standards:</b> NIST AI RMF • ISO/IEC 42001 • SOC 2 • Zero-Trust Architecture
+</p>
+
+<br>
+
+<p align="center" style="color: #d4af37;"><b>Core Execution Pipelines</b></p>
+<p align="center" style="color: #f4f4f5;">
+🎯 <b>Precision Risk Intelligence:</b> Advanced threat modeling & analytics<br>
+🛡️ <b>Exception-Only HITL:</b> Human-in-the-loop validation gates<br>
+🔒 <b>Immutable Ledgers:</b> Hash-chained cryptographic audit trails
+</p>
+
+---
+
+<h3 align="center" style="color: #d4af37; letter-spacing: 2px;">⚡ FRAMEWORKS & CAPABILITIES</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GRC-Governance%20%7C%20Risk%20%7C%20Compliance-000000?style=for-the-badge&logo=shield&logoColor=d4af37" alt="GRC" />
+  <img src="https://img.shields.io/badge/Risk%20Intelligence-Advanced%20Analytics-000000?style=for-the-badge&logo=databricks&logoColor=d4af37" alt="Risk Intelligence" />
+  <img src="https://img.shields.io/badge/AI%20Governance-NIST%20AI%20RMF-000000?style=for-the-badge&logo=openai&logoColor=d4af37" alt="AI Governance" />
+  <img src="https://img.shields.io/badge/Compliance-ISO%2042001%20%7C%20SOC2-000000?style=for-the-badge&logo=checkmarx&logoColor=d4af37" alt="Compliance" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Zero%20Trust-000000?style=for-the-badge&logo=letsencrypt&logoColor=d4af37" alt="Cybersecurity" />
+</p>
+
+---
+
+<h3 align="center" style="color: #d4af37; letter-spacing: 2px;">📊 TELEMETRY & ANALYTICS</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VeritasRiskEngine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=d4af37&icon_color=f59e0b&text_color=f4f4f5" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeritasRiskEngine&theme=tokyonight&hide_border=true&background=000000&ring=d4af37&fire=f59e0b&currStreakLabel=d4af37" height="165" />
+</p>
